@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E44DEB7F-CC9C-CAB1-2C39-EE7C5A3097F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SpinManager.cs">
+    <Files>
+      <File FileName="Assets/Script/Cell.cs" Line="41" Column="51" />
+      <File FileName="Assets/Script/ICell.cs" Line="8" Column="10" />
+      <File FileName="Assets/Script/IColoumn.cs" Line="8" Column="29" />
+      <File FileName="Assets/Script/Coloumn.cs" Line="5" Column="29" />
+      <File FileName="Assets/Script/SpinManager.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rashvita Slot Machine Demo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f2c039d-bd51-4091-b58e-c04fef041998" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
